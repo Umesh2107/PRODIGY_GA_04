@@ -32,15 +32,7 @@ Here’s a sample result after training for a few epochs:
 |---------------------|
 | ![Output](task_4 output.png) |
 
-> 🖼️ The output shown above is saved as `generated_output.png`.
+> 🖼️ The output shown above is saved as `task_4 output.png`.
 
 ---
 
-## 📥 Download the Output
-
-In the notebook, after prediction:
-
-```python
-from google.colab import files
-image.save("generated_output.png")
-files.download("generated_output.png")
