@@ -30,7 +30,7 @@ Here’s a sample result after training for a few epochs:
 
 | Generated (Output) |
 |---------------------|
-| ![Output](task_4 output.png) |
+![Output](task_4 output.png) 
 
 > 🖼️ The output shown above is saved as `task_4 output.png`.
 
